@@ -8,4 +8,4 @@ def convertToSeconds(sailTime):
 
 estimatedSpeed = float(shipLength) / convertToSeconds(sailTime) * 1.94384
 
-print("Estimated speed is: ", estimatedSpeed, "knots per second")
+print("Estimated speed is: ", estimatedSpeed, "knots")
